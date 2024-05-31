@@ -1,12 +1,9 @@
 insert into Livros (titulo,autor,ano_publicacao,disponivel,categoria,isbn,editora,quantidade_paginas,idioma) values
 ("As Crônicas de Nárnia","C.S. Lewis",1950,true,"Fantasia","978-0064471190","HaperCollins",768,"Inglê");
 insert into Livros (titulo,autor,ano_publicacao,disponivel,categoria,isbn,editora,quantidade_paginas,idioma) values
-("Cem Anos de Solidão", "Gabriel Garcia Marquez", 1967, true, "Ficção", '978-0241968581', "Penguin Books", 422, "Espanhol");
-insert into Livros (titulo,autor,ano_publicacao,disponivel,categoria,isbn,editora,quantidade_paginas,idioma) values
-("Harry Potter e a Pedra Filosofal", "J.K. Rowling", 1997, true, "Fantasia", '978-0439708180', "Bloomsbury", 309, "Inglês");
-
-insert into Livros (titulo,autor,ano_publicacao,disponivel,categoria,isbn,editora,quantidade_paginas,idioma) values
-("O Senhor dos Anéis: A Sociedade do Anel", "J.R.R. Tolkien", 1954, true, "Fantasia", '978-0618640157', "HarperCollins", 423, "Inglês");
+("Cem Anos de Solidão", "Gabriel Garcia Marquez", 1967, true, "Ficção", "978-0241968581", "Penguin Books", 422,"Espanhol"),
+ ("Harry Potter e a Pedra Filosofal", "J.K. Rowling,", 1997, true, "Fantasia", "978-0439708180", "Bloomsbury", 309, "Inglês"),
+ ("O Senhor dos Anéis: A Sociedade do Anel", "J.R.R. Tolkien", 1954, true, "Fantasia", "978-0618640157", "HarperCollins", 423, "Inglês");
 
 insert into Livros (titulo,autor,ano_publicacao,disponivel,categoria,isbn,editora,quantidade_paginas,idioma) values
 ("Mundo dos Dinossauros", "Joseph stolen", 1994, true, "Historia", '978-9518577557', "Homeprime", 365, "Alemão");
